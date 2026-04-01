@@ -1,0 +1,55 @@
+Brahminno Company Overview
+===========================
+
+Founded: 2025
+Headquarters: india
+Focus: AI-powered ,AR/VR/XR ,Gaming and IOT products 
+
+About Brahminno
+---------------
+Brahminno Pvt Ltd is an AI and immersive technology(Xr & Gaming) innovation company helping startups, enterprises, and governments build next-generation digital products.
+
+We specialize in Generative AI, AI Agents, Machine Learning, XR (AR/VR/MR), Gaming, IoT, and Digital Twin systems, enabling organizations to transform ideas into scalable intelligent platforms.
+
+Our team combines deep engineering expertise with creative innovation to design and develop advanced solutions such as:
+
+• Generative AI applications and LLM-powered platforms
+• AI agents and automation systems
+• AI video analytics and smart city solutions
+• XR (AR/VR) training simulations and immersive experiences
+• Game development and interactive environments
+• IoT-enabled smart systems and predictive analytics
+• Rapid AI prototype and MVP development for startups
+
+At Brahminno, we believe the future belongs to intelligent, immersive, and connected systems. Our mission is to help organizations accelerate innovation by building powerful AI-driven solutions that deliver real-world impact.
+
+🌐 Website: www.brahminno.com
+
+Let’s build the future of AI, immersive technology, and intelligent systems together.
+
+#AI #GenerativeAI #AIEngineering #XR #ARVR #Gaming #IoT #DigitalTwin #Innovation #StartupTech
+
+Team
+----
+- Engineering: 25+ engineers across backend, frontend, Gaming , IOT and ML
+- Headquarters: India
+
+Revenue Model
+-------------
+- MVP for startups
+- SaaS subscriptions (monthly and annual plans)
+- Enterprise licensing for on-premise deployments
+- Professional services and custom integrations
+
+Technology Stack
+----------------
+- Backend: Python, FastAPI, LangChain, PostgreSQL,node.js
+- Frontend: Next.js, TypeScript, Tailwind CSS,React ,React native, flutter ,unity3d
+- Infrastructure: AWS, Docker, Kubernetes
+- AI/ML: OpenAI, FAISS, HuggingFace
+
+Contact
+-------
+Website: https://www.brahminno.com
+Email: contact@brahminno.com
+LinkedIn: linkedin.com/company/brahminno
